@@ -1,8 +1,10 @@
 <template>
-  <h1>HOLA MUNDO</h1>
+  <h1>Lista de posts</h1>
+  <PostContainer/>
 </template>
 
-<script lang="ts">
+<script lang="ts" setup>
+import PostContainer from './components/PostContainer.vue';
 
 </script>
 
