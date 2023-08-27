@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
     <h1 v-if="age < 18 ">Eres menor de edad</h1>
     <h1 v-else>Eres mayor de edad</h1>
 </template>
@@ -12,6 +13,13 @@ import {  defineComponent } from 'vue';
             return {age}
         }
     })
+=======
+    <div></div>
+</template>
+
+<script lang="ts" >
+
+>>>>>>> 08e7c40 (Ya finalizado el proyecto personal)
 </script>
 
 <style scoped>
