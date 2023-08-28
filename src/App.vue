@@ -1,19 +1,11 @@
 <template>
   <NavBar/>
   <h1>Lista de posts</h1>
-<<<<<<< HEAD
 <ExampleFor/>
   <ExampleSelective/>
   <!-- <div class="container-fluid text-bg-dark p-3"> -->
     <!-- <CounterComposition/> -->
   <!-- </div> -->
-=======
-  <div class="container-fluid text-bg-dark p-3">
-    <ModelForm/>
-    
-    <!-- <CounterComposition/> -->
-  </div>
->>>>>>> 08e7c40 (Ya finalizado el proyecto personal)
   <!-- <PostContainer/> -->
 
 </template>
@@ -25,12 +17,9 @@ import ModelForm from './components/ModelForm.vue'
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import "bootstrap/dist/js/bootstrap.min";
 // import CounterComposition from './components/CounterComposition.vue';
-<<<<<<< HEAD
 // import ExampleSelective from './components/ExampleSelective.vue';
 import ExampleFor from './components/ExampleFor.vue';
 
-=======
->>>>>>> 08e7c40 (Ya finalizado el proyecto personal)
 </script>
 
 
